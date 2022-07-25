@@ -1,0 +1,2 @@
+D:\PWS\PWS_7\PWS_7\obj\Debug\PWS_7.csprojAssemblyReference.cache
+D:\PWS\PWS_7\PWS_7\obj\Debug\PWS_7.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\PWS\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.dll.config
+D:\PWS\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.dll
+D:\PWS\PWS_5\PWS_5_WCF\bin\Debug\PWS_5_WCF.pdb
+D:\PWS\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.csproj.CoreCompileInputs.cache
+D:\PWS\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.dll
+D:\PWS\PWS_5\PWS_5_WCF\obj\Debug\PWS_5_WCF.pdb
